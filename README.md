@@ -105,7 +105,7 @@ Currently working on:
 
 ## 📫 Connect
 
-<a href="https://linkedin.com/in/daviderutigliano" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/davide-rutigliano" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" alt="LinkedIn" />
 </a>
 <a href="https://github.com/daviderutigliano" target="_blank" rel="noopener noreferrer" style="margin-left:12px;">
