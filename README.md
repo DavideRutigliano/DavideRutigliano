@@ -1,5 +1,7 @@
 # Hi, I'm Davide 👋
 
+For more details, check out my [portfolio](https://daviderutigliano.github.io/portfolio-website/)
+
 I’m an **Infrastructure & Platform Engineer** with strong expertise in **Kubernetes, Cloud, and GPU infrastructure**.  
 I specialize in designing, deploying, and automating large-scale, resilient platforms, both on-premises clusters to cloud-native solutions, with a focus on cost, performance, observability, and developer experience.
 
