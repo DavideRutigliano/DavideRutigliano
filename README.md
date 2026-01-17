@@ -6,9 +6,10 @@ I’m an **Infrastructure & Platform Engineer** with strong expertise in **Kuber
 I specialize in designing, deploying, and automating large-scale, resilient platforms, both on-premises clusters to cloud-native solutions, with a focus on cost, performance, observability, and developer experience.
 
 Currently working on:  
-- **GPU-powered AI workloads** on Kubernetes (NVIDIA GPU Operator, KAI Scheduler, MIG, vGPU)  
+- **GPU-powered AI workloads** on Kubernetes (Slurm on K8s, Kueue, NVIDIA GPU Operator, KAI/Volcano Scheduler, MIG, vGPU)
 - **Unified observability** across Kubernetes & VM-based workloads  
 - **Platform automation** for self-service infrastructure  
+- **Ralph and Gastown** see [this](https://ghuntley.com/ralph/) and [this](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
 
 ---
 
