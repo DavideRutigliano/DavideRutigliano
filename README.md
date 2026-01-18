@@ -106,6 +106,10 @@ Currently working on:
 
 ---
 
+[![DevStats Card](https://devstats.me/?username=daviderutigliano)](https://github.com/tico88612/devstats-card)
+
+---
+
 ## 📫 Connect
 
 <a href="https://linkedin.com/in/davide-rutigliano" target="_blank" rel="noopener noreferrer">
